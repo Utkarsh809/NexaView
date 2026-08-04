@@ -18,8 +18,7 @@ IntelliView is a cutting-edge platform designed to help candidates prepare for j
 - Tailwind CSS
 - Vapi AI
 - shadcn/ui
-- Google Gemeni
-- Zod
+- Google Gemini
 
 ## <a name="features">🔋 Features</a>
 
