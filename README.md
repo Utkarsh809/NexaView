@@ -1,4 +1,4 @@
-# 🤖IntelliView — Real-Time AI Voice Agent Interview Platform
+# NexaView — Real-Time AI Voice Agent Interview Platform
 
 [![Next.js](https://img.shields.io/badge/Next.js-14-blue.svg)](https://nextjs.org/)
 [![Vapi](https://img.shields.io/badge/Vapi-API-green.svg)](https://vapi.ai/)
