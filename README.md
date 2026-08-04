@@ -29,5 +29,3 @@ IntelliView is a cutting-edge platform designed to help candidates prepare for j
 - **Instant Feedback** – Receive real-time feedback on your responses, including tone, clarity, confidence, and relevance — all analyzed by AI.
 - **Transcripts & Insights** – Access detailed transcripts of your interviews with AI-generated suggestions to help you improve.
 - **Smart Dashboard** – Track, manage, and revisit all your interviews from a single, intuitive dashboard.
-- **Modern UI/UX** – Clean, intuitive, and visually appealing interface focused on user experience.
-- **Fully Responsive** – Seamlessly accessible on desktops, tablets, and mobile devices — interview anywhere, anytime.
